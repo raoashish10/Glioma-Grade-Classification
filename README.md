@@ -1,7 +1,7 @@
-# Glioma-Grade-Classification
+# Glioma Grade Classification
+
 XGBoost Binary Classification for Glioma Grading
 
-# Glioma Grade Classification
 ### Approach
 - Data cleaning and transformation
 - XGBoost model
